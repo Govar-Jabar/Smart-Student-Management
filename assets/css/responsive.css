@@ -1,0 +1,99 @@
+.btn{
+    margin-bottom: 8px;
+}
+
+@media screen and (max-width: 2100px){
+	
+}
+@media screen and (max-width: 1700px){
+	
+}
+@media screen and (max-width: 1440px){
+	
+}
+@media screen and (max-width: 1280px){
+	
+}
+@media screen and (max-width: 1068px){
+	.student .col-md-1,.timetable .col-md-1,.mark .col-md-1,.report .col-md-1,.atte .col-md-1{
+    	width: 33.333333% !important;
+	}
+	.sp{
+		display: none;
+	}
+	.cd-schedule .event-name {
+    	font-size: 16px !important;
+	}
+}
+@media screen and (max-width: 1024px){
+	.noti-box {
+    	text-align: center !important;
+	}
+	.text-muted {
+	    line-height: 1.5;
+	    width: 100%;
+	}
+	.text-box p {
+    	font-size: 15px;
+	}
+	.dt-buttons,.dataTables_length{
+		display: none !important;
+	}
+}
+@media screen and (max-width: 1008px){
+	
+}
+@media screen and (max-width: 992px){
+	.table_atte{
+		overflow: auto;
+	}
+}
+@media screen and (max-width: 960px){
+
+	.event-date{
+    	font-size: 11px !important;
+	}
+	.cd-schedule .event-name{
+    	font-size: 12px !important;
+	}
+}
+@media screen and (max-width: 898px){
+
+}
+@media screen and (max-width: 768px){
+	.stu_tbl{
+		overflow: auto;
+	}
+}
+@media screen and (max-width: 700px){
+	.col-xs-6 {
+    	float: right;
+	}
+	.stu_tbl{
+		overflow: hidden !important;
+	}
+	#page-inner {
+    	margin: 10px 0px 10px 0px  !important;
+	}
+}
+@media screen and (max-width: 640px){
+	
+}
+@media screen and (max-width: 600px){
+	.stu_tbl{
+		overflow: auto !important;
+	}
+}
+@media screen and (max-width: 480px){
+	.col-xs-6 {
+    	width: 100%  !important;
+	}
+}
+@media screen and (max-width: 360px){
+	.btn-group > .btn, .btn-group-vertical > .btn {
+    	width: 110px;
+    }
+}
+@media screen and (max-width: 320px){
+	
+}
