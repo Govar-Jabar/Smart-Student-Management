@@ -1,8 +1,8 @@
 <?php
-$sn = "localhost";
-$u = "root";
-$p = "";
-$db = "student";
+$sn = "db4free.net";
+$u = "laravelblog";
+$p = "g07@r.1989";
+$db = "laravelblog";
 
 $conn = mysqli_connect($sn, $u, $p, $db);
 mysqli_set_charset($conn,"utf8");
