@@ -1,5 +1,5 @@
 <?php
-$sn = "85.10.205.173:3306";
+$sn = "db4free.net";
 $u = "laravelblog";
 $p = "g07@r.1989";
 $db = "laravelblog";
