@@ -1,5 +1,5 @@
 <?php
-$sn = "https://mysql8.db4free.net";
+$sn = "mysql8.db4free.net";
 $u = "laravelblog";
 $p = "g07@r.1989";
 $db = "laravelblog";
